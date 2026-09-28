@@ -1,3 +1,4 @@
+HEAD
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
@@ -28,3 +29,15 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+=======
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Ignored default folder with query files
+/queries/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+ 02f92eceb514e4928bc958b1166c1d323d63b618
